@@ -1,0 +1,25 @@
+body{
+    height:125vh;
+    }
+    header{
+    background-color:black;
+    position:fixed;
+    left:0;
+    right:0;
+    }
+    header*{
+    display:inline;
+    }
+    header h3{
+    margin:20px;
+    }
+    header h3 {
+    color:white;
+    text-decoration:none;
+    }
+    input{
+    color:#fff;
+    padding :8px 22px;
+    border-radius:6px;
+    background :#7d2ae8;
+    }
